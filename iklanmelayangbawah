@@ -1,0 +1,33 @@
+<script type='text/javascript'>
+$(document).ready(function() {
+$('img#closed').click(function(){
+$('#btm_banner').hide(90);
+});
+});
+</script>
+<style type='text/css'>
+div#btm_banner {
+bottom: 0;
+position: fixed;
+width: 100%;
+opacity: 0.9;
+left: 0;
+}
+div#btm_banner img{
+border:0;
+cursor:pointer;
+}
+</style>
+<div style='height: 0px;'></div>
+<div align='center' id='btm_banner' style='height: 120px; z-index: 9999;'>
+<div style='text-align: right; width: 728px; height: 10px;'>
+<img id="closed" src="//4.bp.blogspot.com/-9MWyoN5VsJM/TivTpPyUuhI/AAAAAAAABL0/ldO739MTRBg/s1600/close3.png" /></div>
+<div style='clear: both;'></div>
+<p>
+<p><center>
+
+<a href="http://www.jasabola.net?ref=4E954E" target="_blank" title="Pasang Iklan Disini"><img alt="Pasang Togel Disini" border="0" src="https://1.bp.blogspot.com/-CQoxGFVh0Yk/Wa1pc-SV3qI/AAAAAAAAAlY/3SBKny24veAoAi6smrBcSwyiw0TRRfd6gCLcBGAs/s1600/Jasa_Bola-0000.gif" /></a>
+
+</center></p>
+</p>
+</div>
